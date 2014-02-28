@@ -1,0 +1,18 @@
+{
+  "name": "dwarf-xss",
+  "description": "",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "author": "Daniel Yang <miniflycn@gmail.com>",
+  "repository": "git://github.com/dwarfJS/dwarf-xss.git",
+  "license": "MIT",
+  "dependencies": {
+    "xss": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-dwarf-builder": "*"
+  },
+  "scripts": {
+  }
+}
